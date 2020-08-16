@@ -16,3 +16,6 @@ Creating a Youtube playlist on Spotify.
 # Limitations:
 1. Does not work on a playlist with more than 100 songs.
 2. Does not work with differently scripted song titles (Hindi, Korean etc.)
+
+# Mistakes:
+1. Youtube scraping instead of using Youtube API.
